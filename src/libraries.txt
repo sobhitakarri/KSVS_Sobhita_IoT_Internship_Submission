@@ -1,0 +1,7 @@
+# Wokwi Library List
+Adafruit GFX Library
+OneWire
+DallasTemperature
+Adafruit SSD1306
+Adafruit MQTT Library
+ESP32Servo

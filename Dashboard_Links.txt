@@ -1,0 +1,5 @@
+Facility Management View
+https://io.adafruit.com/Sobhita/dashboards/facility-management-view
+
+Medical Staff View
+https://io.adafruit.com/Sobhita/dashboards/medical-staff-view
